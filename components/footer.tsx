@@ -200,7 +200,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-200 dark:border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-600 dark:text-gray-400">© {currentYear} Mithun. All rights reserved.</p>
+            <p className="text-sm text-gray-600 dark:text-gray-400">© {currentYear} Mithun Gowda. All rights reserved.</p>
             <div className="flex items-center gap-6 text-sm text-gray-600 dark:text-gray-400">
               <span>Made with ❤️ for campaign managers</span>
               <div className="flex items-center gap-1">
