@@ -122,7 +122,7 @@ export function Navbar() {
                       className="flex items-center gap-2 text-red-600 dark:text-red-400"
                     >
                       <LogOut className="h-4 w-4" />
-                      Sign out
+                      Sign Out
                     </DropdownMenuItem>
                   </DropdownMenuContent>
                 </DropdownMenu>
